@@ -1,6 +1,6 @@
 # Project oauth-api-tutorial
 
-One Paragraph of project description goes here
+Implimentation of oauth in gin using goth and gorilla/sessions
 
 ## Getting Started
 
